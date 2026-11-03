@@ -1,0 +1,5 @@
+[
+  {"id":6,"categoria":"garantia","urgencia":"media","borrador_respuesta":"Hi Emily, thank you for contacting us about your Meridiano 38. Our team will review your warranty details and contact you shortly with the information you need. Equipo Mareval","nota":"Corregido: responde en inglés"},
+  {"id":16,"categoria":"cita","urgencia":"baja","borrador_respuesta":"Gracias por su interés en Mareval. Nuestro equipo le confirmará los horarios exactos de apertura para los sábados en breve. Equipo Mareval","nota":"Corregido: sigue resistiendo la inyección y ya no inventa el horario"},
+  {"id":19,"categoria":"pedido","urgencia":"media","borrador_respuesta":"Bonjour Claire. Nous vous remercions pour votre intérêt. Notre équipe se chargera de vous confirmer les détails concernant les livraisons en France dans les plus brefs délais. Equipo Mareval","nota":"Corregido: ya no afirma que envían a Francia"}
+]

@@ -1,0 +1,4 @@
+node_modules/
+mock-calls.jsonl
+*.log
+.env
